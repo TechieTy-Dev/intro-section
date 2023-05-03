@@ -1,0 +1,13 @@
+export { default as audiophile } from "./client-audiophile.svg";
+export { default as databiz } from "./client-databiz.svg";
+export { default as maker } from "./client-maker.svg";
+export { default as meet } from "./client-meet.svg";
+export { default as logo } from "./logo.svg";
+export { default as mobileHero } from "./image-hero-mobile.png";
+export { default as desktopHero } from "./image-hero-desktop.png";
+export { default as up } from "./icon-arrow-up.svg";
+export { default as down } from "./icon-arrow-down.svg";
+export { default as calendar } from "./icon-calendar.svg";
+export { default as todo } from "./icon-todo.svg";
+export { default as reminder } from "./icon-reminders.svg";
+export { default as planning } from "./icon-planning.svg";
